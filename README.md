@@ -3,7 +3,7 @@
 ### Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
 #### Introduction
 Our data science project aims to explore and analyze the attributes of bestseller books and 
-identify any relationships between them. The project consists of 3 views focused on answering 
+identify any relationships between them. The project consists of 3 interactive views focused on answering 
 the following tasks:  
 **Task 1**: Compare the relationship between the number of reviews and rating of bestseller books for Amazon and Goodreads.   
 **Task 2**: Show the relationship between the price and rating of books on Amazon  
