@@ -15,5 +15,4 @@ Is there a correlation between amazon ratings and the number of weeks in the NY 
 **Task 7**: Compare book prices across different sites (distribution of prices)   
 
 #### Language: Python with Vega-Altair for Visualization
-#### For full project report, see [Best Books Visualization Notebook]
-(https://github.com/lanchiphamm/Books_Visualization/blob/master/Milestone_2_Final.ipynb).
+#### For full project report, see [Best Books Visualization Notebook](https://github.com/lanchiphamm/Books_Visualization/blob/master/Milestone_2_Final.ipynb).
