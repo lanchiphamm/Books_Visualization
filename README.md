@@ -1,6 +1,6 @@
 # Data Visualization Project
 ## Exploring Bestseller Books on Amazon and GoodReads
-### Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
+## Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
 ### Introduction
 Our data science project aims to explore and analyze the attributes of bestseller books and 
 identify any relationships between them. The project consists of 3 views focused on answering 
