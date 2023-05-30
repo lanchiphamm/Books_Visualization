@@ -1,7 +1,7 @@
 # Data Visualization Project
 ## Exploring Bestseller Books on Amazon and GoodReads
-## Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
-### Introduction
+### Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
+#### Introduction
 Our data science project aims to explore and analyze the attributes of bestseller books and 
 identify any relationships between them. The project consists of 3 views focused on answering 
 the following tasks:  
@@ -14,4 +14,5 @@ Is there a correlation between amazon ratings and the number of weeks in the NY 
 **Task 6**: Which genre of books (Goodreads genre) has the most awards?  
 **Task 7**: Compare book prices across different sites (distribution of prices)   
 
-### Language: Python with Vega-Altair for Visualization
+#### Language: Python with Vega-Altair for Visualization
+#### For full project report, see [Stock Market Analysis Notebook](https://github.com/lanchiphamm/Stock_Market_Analysis/blob/main/Stock%20Market%20Analysis.ipynb).
