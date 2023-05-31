@@ -4,15 +4,21 @@
 #### Introduction
 Our data science project aims to explore and analyze the attributes of bestseller books and 
 identify any relationships between them. The project consists of 3 interactive views focused on answering 
-the following tasks:  
-**Task 1**: Compare the relationship between the number of reviews and rating of bestseller books for Amazon and Goodreads.   
-**Task 2**: Show the relationship between the price and rating of books on Amazon  
-**Task 3**: Visualize the number of reviews by top Goodreads genres   
-**Task 4**: Explore the relationship between the publication year and the number of reviews for each Amazon genre   
-**Task 5**: Is there a correlation between Amazon/Goodreads/NY ratings and the number of awards? 
-Is there a correlation between amazon ratings and the number of weeks in the NY list?  
-**Task 6**: Which genre of books (Goodreads genre) has the most awards?  
-**Task 7**: Compare book prices across different sites (distribution of prices)   
+the following tasks: 
+**VIEW 1**
+**Task 1**: Is there a correlation between the number of Goodreads Awards and the rating of books on Amazon?     
+**Task 2**: Compare the number of Goodreads Awards across the years (distribution of awards)
+![](view1.gif)
+**VIEW 2**
+**Task 3**: Compare the distribution of book ratings across prices for different websites 
+**Task 4**: Compare book prices across different sites (distribution of prices)   
+**Task 5**: Compare the difference in distribution of book prices across different websites.
+![](view2.gif)
+**VIEW 3**
+**Task 6**: Compare the relationship between the number of reviews and rating of bestseller books for Amazon and Goodreads  
+**Task 7**: Describe how the average number of reviews/ratings for the Amazon genres and the top 5 Goodreads genres changes over time  
+**Task 8**: Explain how the distribution of review/rating counts compare for each genre of Amazon and Goodread books
+![](view3.gif)
 
 #### Language: Python with Vega-Altair for Visualization
 #### For full project report, see [Best Books Visualization Notebook](https://github.com/lanchiphamm/Books_Visualization/blob/master/Milestone_2_Final.ipynb).
