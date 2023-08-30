@@ -1,6 +1,7 @@
 # Data Visualization Project
 ## Exploring Bestseller Books on Amazon and GoodReads
 ### Completed April 2023 with Isabela Lucas Bruxellas, Erika Delorme, Kaylie Nguyen
+#### For full project report, see [Best Books Visualization Notebook](https://github.com/lanchiphamm/Books_Visualization/blob/master/Milestone_2_Final.ipynb).
 #### Introduction
 Our data science project aims to explore and analyze the attributes of bestseller books and 
 identify any relationships between them. The project consists of 3 interactive views focused on answering 
@@ -26,4 +27,3 @@ the following tasks:
 ![](view3.gif)  
 
 #### Language: Python with Vega-Altair for Visualization
-#### For full project report, see [Best Books Visualization Notebook](https://github.com/lanchiphamm/Books_Visualization/blob/master/Milestone_2_Final.ipynb).
